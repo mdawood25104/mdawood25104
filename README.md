@@ -78,7 +78,7 @@
     <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="48" alt="Zapier"/>
   </a>
  <a href="https://www.gohighlevel.com/" target="_blank">
-    <img src="assets/ghl.png" height="48" alt="GoHighLevel"/>
+  <img src="https://img.shields.io/badge/GoHighLevel-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </a>
 
