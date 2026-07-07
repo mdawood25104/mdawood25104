@@ -70,12 +70,12 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <!-- n8n -->
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n"/>
+    <img src="https://cdn.simpleicons.org/n8n" height="48" alt="n8n"/>
   </a>
 
   <!-- Zapier -->
   <a href="https://zapier.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="48" alt="Zapier"/>
+    <img src="https://cdn.simpleicons.org/zapier" height="48" alt="Zapier"/>
   </a>
  <a href="https://www.gohighlevel.com/" target="_blank" rel="noreferrer">
   <img src="https://ghl.software/wp-content/uploads/2023/10/Diseno-sin-titulo-2023-10-09T000432.406.png" height="48" alt="GHL"/>
