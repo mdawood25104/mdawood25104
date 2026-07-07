@@ -77,6 +77,11 @@
   <a href="https://zapier.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="48" alt="Zapier"/>
   </a>
+  <a href="https://www.gohighlevel.com/" target="_blank">
+  <img src="https://www.gohighlevel.com/assets/images/logo-white.svg"
+       height="48"
+       alt="GoHighLevel"/>
+</a>
 
 </p>
 
