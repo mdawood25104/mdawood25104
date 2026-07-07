@@ -78,7 +78,7 @@
     <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="48" alt="Zapier"/>
   </a>
  <a href="https://www.gohighlevel.com/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd0_rQmZzgxd8AoNcLiLffDtN1G6UfUtaVSl-SYShZHw&s=10"/>
+  <img src="https://ghl.software/wp-content/uploads/2023/10/Diseno-sin-titulo-2023-10-09T000432.406.png" height="48" alt="GHL"/>
 </a>
 </a>
 
