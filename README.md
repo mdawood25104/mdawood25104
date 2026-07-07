@@ -81,6 +81,15 @@
   <img src="https://ghl.software/wp-content/uploads/2023/10/Diseno-sin-titulo-2023-10-09T000432.406.png" height="48" alt="GHL"/>
 </a>
 </a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=angular" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=cs" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
 
 </p>
 
