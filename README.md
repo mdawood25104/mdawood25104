@@ -88,6 +88,99 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </a>
+<p align="center">
+  <a href="https://kubernetes.io/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" /></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=netlify" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" /></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" /></a>
+  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://docs.github.com/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <!-- n8n -->
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/n8n" height="48" alt="n8n"/>
+  </a>
+
+  <!-- Zapier -->
+  <a href="https://zapier.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/zapier" height="48" alt="Zapier"/>
+  </a>
+ <a href="https://www.gohighlevel.com/" target="_blank" rel="noreferrer">
+  <img src="https://ghl.software/wp-content/uploads/2023/10/Diseno-sin-titulo-2023-10-09T000432.406.png" height="48" alt="GHL"/>
+</a>
+</a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=angular" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=cs" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+<!-- Simli -->
+<a href="https://www.simli.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.simli.com/favicon.ico" height="48" alt="Simli"/>
+</a>
+<!-- ElevenLabs -->
+<a href="https://elevenlabs.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/elevenlabs" height="48" alt="ElevenLabs"/>
+</a>
+<!-- Kokoro TTS -->
+<a href="https://github.com/hexgrad/kokoro" target="_blank" rel="noreferrer">
+  <img src="https://github.githubassets.com/favicons/favicon.svg" height="48" alt="Kokoro TTS"/>
+</a>
+<!-- OpenAI Whisper -->
+<a href="https://github.com/openai/whisper" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=ai" height="48" alt="OpenAI Whisper"/>
+</a>
+<!-- Ollama -->
+<a href="https://ollama.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/ollama" height="48" alt="Ollama"/>
+</a>
+<!-- Chroma -->
+<a href="https://www.trychroma.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/chroma" height="48" alt="ChromaDB"/>
+</a>
+<!-- Pinecone -->
+<a href="https://www.pinecone.io/" target="_blank">
+  <img src="https://cdn.simpleicons.org/pinecone" height="48" alt="Pinecone"/>
+</a>
+</p>
 
 </p>
 
