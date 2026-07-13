@@ -25,7 +25,6 @@
 # Skill Set
 
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://kubernetes.io/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" /></a>
